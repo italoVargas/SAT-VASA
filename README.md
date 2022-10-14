@@ -3,35 +3,35 @@ Desarrollo de automatización con Python en consulta de facturas tipo INGRESO y 
 
 Genera un reporte en Excel con la siguiente información:__
 
-Uuid__
-RFC Emisor__
-Nombre Emisor__
-RFC Receptor__	
-Nombre Receptor__
-RFC Pac__	
-Fecha Emision__	
-Fecha Certificacion Sat__
-Monto__
-Efecto Comprobante__	
-Estatus__	
-Fecha Cancelacion__		
-Subtotales__
-Total__
-Gran Total__
-Monto__
-Impuestos Trasladados__	
-Impuestos Retenidos__
-Conceptos del C.F.D.I.__
-Igresos grabados de impuestos trasladados__
-Egresos grabados de impuestos trasladados__
-Ingresos grabados de impuestos retenidos__
-Egresos grabados de impuestos retenidos__
-Tratamiento de datos automático (Fac Canceladas, Nómina ,Ingreso, Egreso y Pago)__
+Uuid  
+RFC Emisor  
+Nombre Emisor  
+RFC Receptor  
+Nombre Receptor  
+RFC Pac  
+Fecha Emision  
+Fecha Certificacion Sat  
+Monto  
+Efecto Comprobante  
+Estatus  
+Fecha Cancelacion  
+Subtotales  
+Total  
+Gran Total  
+Monto  
+Impuestos Trasladados  
+Impuestos Retenidos  
+Conceptos del C.F.D.I.  
+Igresos grabados de impuestos trasladados  
+Egresos grabados de impuestos trasladados  
+Ingresos grabados de impuestos retenidos  
+Egresos grabados de impuestos retenidos  
+Tratamiento de datos automático (Fac Canceladas, Nómina ,Ingreso, Egreso y Pago)  
 
 
 
 
 
-Autor: Italo Vargas__
-Contacto: +52 55 1293 9612
+Autor: Italo Vargas  
+Contacto: +52 55 1293 9612  
 
