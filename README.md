@@ -1,4 +1,4 @@
-# SAT-VASA-V:30.0.  
+# SAT-VASA-V:30.0.0.    
 
 Desarrollo de automatización con Python en consulta de facturas tipo INGRESO y EGRESO una a una, así como la facturación en la versión 4.X.X, directamente desde el Sistema de Administración Tributaría, funciona con eFirma y SIEC, sincronizado a Google Drive,  optimizado con interfaz gráfica para su uso  en Despacho fiscal-contable Privado.  
 
