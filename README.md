@@ -1,7 +1,8 @@
-# SAT-VASA
-Desarrollo de automatización con Python en consulta de facturas tipo INGRESO y EGRESO una a una, así como la facturación en la versión 4.X.X, directamente desde el Sistema de Administración Tributaría, funciona con y sin eFirma, sincronizado a Google Drive,  optimizado con interfaz gráfica para su uso  en Despacho fiscal-contable Privado . 
+# SAT-VASA-V:30.0.  
 
-Genera un reporte en Excel con la siguiente información:__
+Desarrollo de automatización con Python en consulta de facturas tipo INGRESO y EGRESO una a una, así como la facturación en la versión 4.X.X, directamente desde el Sistema de Administración Tributaría, funciona con eFirma y SIEC, sincronizado a Google Drive,  optimizado con interfaz gráfica para su uso  en Despacho fiscal-contable Privado.  
+
+Genera un reporte en Excel con la siguiente información:  
 
 Uuid  
 RFC Emisor  
@@ -32,6 +33,6 @@ Tratamiento de datos automático (Fac Canceladas, Nómina ,Ingreso, Egreso y Pag
 
 
 
-Autor: Italo Vargas  
-Contacto: +52 55 1293 9612  
+Autor: Italo Vargas.  
+Contacto: +52 55 1293 9612.  
 
