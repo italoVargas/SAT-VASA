@@ -29,6 +29,7 @@ Ingresos grabados de impuestos retenidos
 Egresos grabados de impuestos retenidos  
 Tratamiento de datos automático (Fac Canceladas, Nómina ,Ingreso, Egreso y Pago)  
 
+![Screen Shot 2022-10-14 at 14 07 42](https://user-images.githubusercontent.com/53419972/195923479-eb082b02-5a0c-47bb-be4b-2b1908c724cf.jpg)
 
 
 
